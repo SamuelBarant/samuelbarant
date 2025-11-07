@@ -60,6 +60,9 @@ To keep growing as a developer, master **Clean Architecture**, and become a prof
   <a href="mailto:samuel.barant@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://linkedin.com/in/samuelbarba">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
